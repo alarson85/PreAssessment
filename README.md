@@ -15,13 +15,13 @@ When you finish each fiddle, click the 'update' button and that will create your
 
 * [Name] - http://jsfiddle.net/kosx1jsg/2/ - SOLUTION-URL
 * [Food] - http://jsfiddle.net/p32093r1/1/ - SOLUTION-URL
-* [Double] - http://jsfiddle.net/9c626r2e/1/- SOLUTION-URL
-* [Addition] - http://jsfiddle.net/M8pZf/655/- SOLUTION-URL
-* [First] - http://jsfiddle.net/zsFvE/808/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/rLes9kdb/425/ - SOLUTION-URL
-* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
-* [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
-* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
-* [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL
+* [Double] - http://jsfiddle.net/9c626r2e/1/ - SOLUTION-URL
+* [Addition] - http://jsfiddle.net/s3db9cuf/1/ - SOLUTION-URL
+* [First] - http://jsfiddle.net/zsFvE/809/ - SOLUTION-URL
+* [Last] -  http://jsfiddle.net/rLes9kdb/430/ - SOLUTION-URL
+* [Loop] - http://jsfiddle.net/YM7th/632/ - SOLUTION-URL
+* [oddsAndEvens] - http://jsfiddle.net/4zfcz/689/ - SOLUTION-URL
+* [me] - http://jsfiddle.net/5Ua3r/549/ - SOLUTION-URL
+* [favoriteThings] - http://jsfiddle.net/zCcnT/595/ - SOLUTION-URL
+* [firstLoop] - http://jsfiddle.net/Lgf3G/684/ - SOLUTION-URL
 * [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL
